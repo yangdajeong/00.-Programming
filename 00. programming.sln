@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "솔루션 항목", "솔루�
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. DataType", "01. DataType\01. DataType.csproj", "{26F322DA-5C7E-45D9-995D-97F12F9CCAF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Operator", "02. Operator\02. Operator.csproj", "{0A9E2002-8337-4FBC-A995-ACE0F254B612}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{26F322DA-5C7E-45D9-995D-97F12F9CCAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26F322DA-5C7E-45D9-995D-97F12F9CCAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26F322DA-5C7E-45D9-995D-97F12F9CCAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A9E2002-8337-4FBC-A995-ACE0F254B612}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A9E2002-8337-4FBC-A995-ACE0F254B612}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A9E2002-8337-4FBC-A995-ACE0F254B612}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A9E2002-8337-4FBC-A995-ACE0F254B612}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
