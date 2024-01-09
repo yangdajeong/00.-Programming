@@ -1,7 +1,7 @@
 ﻿namespace _06._UserDefineType
 {
     internal class Program
-    {
+    { 
         /********************************************************************
          * 열거형 (Enum)
          * 

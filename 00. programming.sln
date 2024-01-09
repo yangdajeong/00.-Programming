@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Function", "05. Functio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. UserDefomeType", "06. UserDefomeType\06. UserDefomeType.csproj", "{EBD135A1-E878-4084-9100-F10FEA0085CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Class", "07. Class\07. Class.csproj", "{AA45EF0B-D5C6-4B4B-B7C4-ED81F90040D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{EBD135A1-E878-4084-9100-F10FEA0085CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EBD135A1-E878-4084-9100-F10FEA0085CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EBD135A1-E878-4084-9100-F10FEA0085CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA45EF0B-D5C6-4B4B-B7C4-ED81F90040D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA45EF0B-D5C6-4B4B-B7C4-ED81F90040D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA45EF0B-D5C6-4B4B-B7C4-ED81F90040D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA45EF0B-D5C6-4B4B-B7C4-ED81F90040D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
