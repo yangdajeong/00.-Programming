@@ -23,7 +23,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Class", "07. Class\07. 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Memory", "08. Memory\08. Memory.csproj", "{200BF775-3B9A-449D-8F6E-4B3329FF0C71}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Abstraction(OOP)", "09. Abstraction(OOP)\09. Abstraction(OOP).csproj", "{20D96ACB-5283-4C51-B87B-6A0C86746D66}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP", "09. Abstraction(OOP)\OOP.csproj", "{20D96ACB-5283-4C51-B87B-6A0C86746D66}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
